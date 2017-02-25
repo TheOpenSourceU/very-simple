@@ -2,13 +2,14 @@
 menu:
   ## If your site is put in a subdirectory, set Home as '/child/'
   Home: /
+  About: about
   Archives: archives
 
 social:
-  email:
+  email: frank.villasenor@gmail.com
   twitter:
   weibo:
-  github:
+  github: FrankV01
   googleplus:
   rss: /atom.xml
 
